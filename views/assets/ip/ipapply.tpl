@@ -65,7 +65,7 @@
           idc: 1,
           ipType: 0,
           num: 1,
-          mail: "wangwei03@sunlands.com",
+          mail: "winway1988@163.com",
           ips: ""
         },
         methods: {

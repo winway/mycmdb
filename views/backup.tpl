@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="运维自动化平台">
   <meta name="keywords" content="devops">
-  <meta name="author" content="wangwei03@sunlands.com">
+  <meta name="author" content="winway1988@163.com">
   <meta name="robots" content="index,follow">
 
   <title>运维自动化平台</title>

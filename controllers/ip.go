@@ -381,7 +381,7 @@ func (this *IpController) ApplyIp() {
 		}
 	}
 
-	if err := utils.SendMail("wangwei03@sunlands.com", "IP申请", "<p>您已成功申请如下IP，请放心使用！</p><br />"+strings.Join(ips, "<br />"), "html"); err != nil {
+	if err := utils.SendMail("winway1988@163.com", "IP申请", "<p>您已成功申请如下IP，请放心使用！</p><br />"+strings.Join(ips, "<br />"), "html"); err != nil {
 		beego.Error(err)
 		errflag = true
 		o.Rollback()
