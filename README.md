@@ -1,2 +1,2 @@
 # mycmdb
-A cmdb based on beego
+A simple cmdb based on beego
